@@ -1,0 +1,20 @@
+45a46
+> Job [1] (11315) terminated by signal 2
+54a56
+> Job [2] (11337) terminated by signal 2
+65a68
+> Job [2] (11372) stopped by signal 20
+77a81
+> Job [2] (11407) stopped by signal 20
+99d102
+< Job [1] (11467) stopped by signal 20
+107a111
+> Job [1] (11487) terminated by signal 2
+268a273
+> Job [1] (11544) stopped by signal 20
+345d349
+< Job [1] (11567) stopped by signal 20
+457a462
+> Job [1] (11644) terminated by signal 2
+490a496
+> Job [2] (11723) terminated by signal 2
